@@ -1,4 +1,4 @@
 Ariadna2014
 ===========
 
-Probando - fomacion
+Probando - formacion
