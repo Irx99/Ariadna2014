@@ -1,4 +1,4 @@
-<Ariadna2014
+Ariadna2014
 ===========
 
 Probando - formacion
